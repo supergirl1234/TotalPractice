@@ -5,6 +5,7 @@ import java.util.*;
 /**
  * Author:Fanleilei
  * Created:2019/6/9 0009
+ * 火车进站，输入进站火车的序列号1-9，按字典排序输出出栈序列
  */
 public class Main {
     //求出所有排列

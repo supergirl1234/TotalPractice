@@ -7,8 +7,43 @@ n<=39
 * */
 public class Solution7 {
 
-    public int Fibonacci(int n) {
 
-        return -1;
+    /*递归的思想*/
+    public int Fibonacci1(int n) {
+
+       if(n==1||n==2){
+           return 1;
+
+       }
+       return  Fibonacci1(n-1)+Fibonacci1(n-2);
+
+
     }
-}
+
+    /*非递归的思想*/
+    public int Fibonacci2(int n) {
+
+        if(n==0){
+
+            return 0;
+        }
+        if(n==1){
+
+            return 1;
+        }
+
+        int a=0;
+        int b=1;
+        int result=0;
+        while(n>=2){
+
+
+            result=a+b;
+            a=b;
+            b=result;
+            n--;
+        }
+        return  result;
+    }
+
+    }

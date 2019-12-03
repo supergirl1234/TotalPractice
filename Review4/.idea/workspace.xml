@@ -87,8 +87,8 @@
       <file leaf-file-name="Solution182.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/commm/Solution182.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="100">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -159,7 +159,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_HOME" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="35" />
     <option name="y" value="45" />
     <option name="width" value="737" />
@@ -209,13 +209,6 @@
               <item name="Review4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="commm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Review4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="commm" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution17.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="Review4" type="b2602c69:ProjectViewProjectNode" />
@@ -378,15 +371,15 @@
       <workItem from="1575202221504" duration="1988000" />
       <workItem from="1575284828427" duration="10835000" />
       <workItem from="1575342868180" duration="687000" />
-      <workItem from="1575351119792" duration="4915000" />
+      <workItem from="1575351119792" duration="4935000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36638000" />
+    <option name="totallyTimeSpent" value="36658000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -839,8 +832,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/commm/Solution182.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="100">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>

@@ -3,6 +3,9 @@ package com.lei.com;
 
 /*
 * 题目：操作给定的二叉树，将其变换为源二叉树的镜像。
+*
+*思路：采用递归的思想
+*
 * */
 class TreeNode {
     int val = 0;

@@ -14,24 +14,29 @@ public class Solution5 {
 
         return getNumber(array,0,array.length-1,k);
 
-
     }
 
     public int getNumber(int[] array,int left,int right,int k){
+
+        if(left<right){
+
+
+            return count;
+        }
 
 
         int medium=(right+left)/2;
 
         if(k<array[medium]){
 
-            getNumber(array,0,medium,k);
+            getNumber(array,left,medium-1,k);
         }else if(k>array[medium]){
 
             getNumber(array,medium+1,right,k);
         }else{
 
             count++;
-            for(int i=medium+1;i<right;i++){
+            for(int i=medium+1;i<=right;i++){
 
                 if(array[i]==k){
                     count++;
@@ -54,7 +59,7 @@ public class Solution5 {
     public static void main(String[] args) {
         int[] array=new int[]{1,2,3,4,5,6,7,8,8,8,9,10};
         Solution5 solution5=new Solution5();
-        int result=solution5.GetNumberOfK(array,8);
+        int result=solution5.GetNumberOfK(array,10);
         System.out.println(result);
 
 

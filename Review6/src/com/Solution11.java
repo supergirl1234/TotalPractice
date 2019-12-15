@@ -24,7 +24,7 @@ public class Solution11 {
 
     }
 
-    /*不使用内置函数*/
+    /*不使用内置函数，使用的原理为YX = (X^T Y^T)^T*/
     public String LeftRotateString2(String str,int n) {
         if(n>str.length()){
             return  "";

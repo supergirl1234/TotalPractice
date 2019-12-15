@@ -10,11 +10,37 @@ import java.util.ArrayList;
 *
 * 输出所有和为S的连续正数序列。序列内按照从小至大的顺序，序列间按照开始数字从小到大的顺序
 * */
+
+/*
+* 思路：
+* 使用双指针技术
+*
+* */
 public class Solution9 {
 
     public ArrayList<ArrayList<Integer>> FindContinuousSequence(int sum) {
 
-        return null;
+        ArrayList<ArrayList<Integer>> FinalList=new ArrayList<>();
 
+        int left=1;
+        int right=2;
+        int total=0;
+
+        while(left<right){
+            total=(left+right)*(right-left+1)/2;
+            if(total==sum){
+                ArrayList<Integer> list=new ArrayList<>();
+                for(int i=left;i<=right;i++){
+                    list.add(i);
+                }
+                FinalList.add(list);
+                left++;
+            }else if(total>sum){
+                left++;
+            }else{
+                right++;
+            }
+        }
+        return FinalList;
     }
 }

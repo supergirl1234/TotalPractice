@@ -15,8 +15,8 @@
       <file leaf-file-name="Solution20.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/commm/Solution20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="371">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -24,44 +24,50 @@
       <file leaf-file-name="Solution35.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/commm/Solution35.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="-225">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution36.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution36.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/commm/Solution36.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="485">
+              <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution28.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/commm/Solution28.java">
+      <file leaf-file-name="Solution37.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/commm/Solution37.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="375">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution29.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/commm/Solution29.java">
+      <file leaf-file-name="Solution38.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/commm/Solution38.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1575">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="285">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution30.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/commm/Solution30.java">
+      <file leaf-file-name="Solution39.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/commm/Solution39.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="1375">
+              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+              <folding>
+                <element signature="e#993#1002#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,7 +84,7 @@
       <file leaf-file-name="Solution32.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/commm/Solution32.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
+            <state relative-caret-position="485">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
@@ -99,7 +105,7 @@
       <file leaf-file-name="Solution34.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/commm/Solution34.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
+            <state relative-caret-position="-422">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -155,7 +161,10 @@
         <option value="$PROJECT_DIR$/src/commm/Solution33.java" />
         <option value="$PROJECT_DIR$/src/commm/Solution34.java" />
         <option value="$PROJECT_DIR$/src/commm/Solution35.java" />
+        <option value="$PROJECT_DIR$/src/commm/Solution37.java" />
+        <option value="$PROJECT_DIR$/src/commm/Solution38.java" />
         <option value="$PROJECT_DIR$/src/commm/Solution36.java" />
+        <option value="$PROJECT_DIR$/src/commm/Solution39.java" />
       </list>
     </option>
   </component>
@@ -188,7 +197,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -218,19 +226,13 @@
               <item name="Review7" type="b2602c69:ProjectViewProjectNode" />
               <item name="Review7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="comm" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution6.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Review7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="commm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,18 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution35">
-    <configuration name="Solution18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="comm.Solution18" />
-      <module name="Review7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="comm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution36">
     <configuration name="Solution19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="commm.Solution19" />
       <module name="Review7" />
@@ -300,6 +291,17 @@
     </configuration>
     <configuration name="Solution35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="commm.Solution35" />
+      <module name="Review7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="commm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="commm.Solution36" />
       <module name="Review7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -351,19 +353,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution18" />
       <item itemvalue="Application.Solution19" />
       <item itemvalue="Application.Solution22" />
       <item itemvalue="Application.Solution26" />
       <item itemvalue="Application.Solution35" />
+      <item itemvalue="Application.Solution36" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution36" />
         <item itemvalue="Application.Solution35" />
         <item itemvalue="Application.Solution26" />
         <item itemvalue="Application.Solution22" />
         <item itemvalue="Application.Solution19" />
-        <item itemvalue="Application.Solution18" />
       </list>
     </recent_temporary>
   </component>
@@ -389,11 +391,12 @@
       <workItem from="1577013199617" duration="291000" />
       <workItem from="1577086615565" duration="6609000" />
       <workItem from="1577168007906" duration="9879000" />
+      <workItem from="1577340993925" duration="8538000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80082000" />
+    <option name="totallyTimeSpent" value="88620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -412,7 +415,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16944024" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17170954" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -467,32 +470,23 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/commm/Solution36.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/commm/Solution36.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="21" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1225">
@@ -775,23 +769,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/commm/Solution20.java">
+    <entry file="file://$PROJECT_DIR$/src/commm/Solution35.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/commm/Solution32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="-225">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/commm/Solution34.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
+        <state relative-caret-position="-422">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -809,17 +796,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/commm/Solution35.java">
+    <entry file="file://$PROJECT_DIR$/src/commm/Solution32.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="485">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commm/Solution20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commm/Solution38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commm/Solution37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/commm/Solution36.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="485">
+          <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commm/Solution39.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="e#993#1002#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

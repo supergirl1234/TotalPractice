@@ -20,7 +20,8 @@ public class Combination {
         if(curTarget>=target){
 
             if(curTarget==target){
-                lists.add(list);
+                ArrayList<Integer> newList=new ArrayList<>(list);
+                lists.add(newList);
 
             }
             return ;
@@ -40,11 +41,20 @@ public class Combination {
         ArrayList<Integer> list=new ArrayList<>();
         dfs2(target,0, 0,candidates,list, lists);
          return  lists;
-
-
     }
 
     public static void main(String[] args) {
+        ArrayList<ArrayList<Integer>> lists=new ArrayList<>();
+        ArrayList<Integer> candidates=new ArrayList<>();
+        candidates.add(1);
+        candidates.add(2);
+        candidates.add(3);
+        candidates.add(4);
+        candidates.add(5);
+        candidates.add(6);
+        candidates.add(7);
 
+        lists=Combination.test(8,candidates);
+        System.out.println(lists);
     }
 }

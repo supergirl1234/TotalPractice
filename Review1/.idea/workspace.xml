@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/src/comm/Test15.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -24,7 +24,7 @@
       <file leaf-file-name="Test16.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/Test16.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
+            <state relative-caret-position="775">
               <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
             </state>
           </provider>
@@ -33,7 +33,7 @@
       <file leaf-file-name="Test17.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/Test17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="675">
               <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -47,7 +47,7 @@
       <file leaf-file-name="Test18.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/Test18.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-65">
+            <state relative-caret-position="450">
               <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -60,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/src/comm/Test19.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="825">
-              <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -68,7 +68,7 @@
       <file leaf-file-name="Test29.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/Test29.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
+            <state relative-caret-position="575">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
@@ -77,7 +77,7 @@
       <file leaf-file-name="Test30.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/Test30.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="525">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -89,8 +89,8 @@
       <file leaf-file-name="Test5.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Test5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="25">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -99,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/src/comm/Test172.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -107,7 +107,7 @@
       <file leaf-file-name="Test20.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/Test20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-800">
+            <state relative-caret-position="175">
               <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
@@ -189,6 +189,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,8 +233,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,16 +381,16 @@
       <updated>1570100768668</updated>
       <workItem from="1570100771789" duration="10905000" />
       <workItem from="1570151370003" duration="25557000" />
-      <workItem from="1582125994969" duration="700000" />
+      <workItem from="1582125994969" duration="1292000" />
+      <workItem from="1582207616356" duration="765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37162000" />
+    <option name="totallyTimeSpent" value="38519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -400,26 +400,26 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3258004" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3258004" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4977169" visible="true" weight="0.19288956" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4977169" visible="true" weight="0.20499243" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5022831" side_tool="true" weight="0.13918306" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4425612" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4425612" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32993197" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32993197" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,9 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1650">
           <caret line="69" column="5" lean-forward="true" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -476,9 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1300">
           <caret line="54" column="14" lean-forward="true" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -517,9 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -562,9 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -572,9 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -582,9 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
           <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -613,10 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-275">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,9 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,9 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1650">
           <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,9 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1300">
           <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -703,9 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="471">
           <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,9 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,9 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,9 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="863">
           <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,20 +741,20 @@
     <entry file="file://$PROJECT_DIR$/src/comm/Test15.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/Test16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
+        <state relative-caret-position="775">
           <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/Test17.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="675">
           <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -809,7 +766,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/Test18.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
+        <state relative-caret-position="450">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -820,13 +777,13 @@
     <entry file="file://$PROJECT_DIR$/src/comm/Test19.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
-          <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/Test20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-800">
+        <state relative-caret-position="175">
           <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
@@ -834,20 +791,20 @@
     <entry file="file://$PROJECT_DIR$/src/comm/Test172.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/Test29.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
+        <state relative-caret-position="575">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/Test30.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="525">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -857,8 +814,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Test5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

@@ -37,6 +37,7 @@ public class PartString {
                 if (result[j] && dict.contains(s.substring(j, i))) {
 
                     result[i] = true;
+                    break;
                 }
             }
         }
